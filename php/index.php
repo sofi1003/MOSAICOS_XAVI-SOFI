@@ -1,0 +1,5 @@
+<?php
+
+$promoción = $_GET[]
+
+?>
